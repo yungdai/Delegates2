@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+// only bringing the project class, because the project class already calls in the task delegate
+#import "Project.h"
 
 @interface ViewController : UIViewController
+
 
 
 @end
